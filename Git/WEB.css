@@ -1,0 +1,38 @@
+hr{
+    border-style: dotted none none;
+    width: 15%;
+    border-width: 5px;
+    color: darkgrey;
+}
+.href{
+    color: peru;
+}
+body{
+    background-color: #485555;
+}
+h1{
+    color: whitesmoke;
+}
+ul li{
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+}
+body{
+    width: 900px; margin: auto;
+}
+.img-r{
+    float: right;
+}
+.img-l{
+    float: left;
+}
+nav{
+    float: right;
+    padding: 10px;
+}
+footer{
+    color: peru;
+    background-color: slategrey;
+}
